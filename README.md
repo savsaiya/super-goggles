@@ -1,2 +1,2 @@
-# super-goggles
+# super-goles
 New Repository
